@@ -16,5 +16,8 @@ public:
 	std::string getPassword() const override { return password; }
 	std::string getMail() const override { return mail; }
 	std::string getPhone() const override { return phoneNumber; }
+	void setId(int id) override{
+		this->id = id;
+	}
 };
 

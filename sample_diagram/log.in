@@ -9,3 +9,557 @@ Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-17 
 Mesaj: [CLEANUP] Sesiune inchisa pentru: a@a.a | Generat in data de: 2026-05-17 20:10:50.4063518
 Mesaj: Login reusit pentru: aaa [Client] | Generat in data de: 2026-05-17 20:14:00.6810818
 Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-17 20:15:21.0209642
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-17 20:51:53.1344824
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-17 20:51:53.1394137
+Mesaj: Login reusit pentru: mmihnea [Client] | Generat in data de: 2026-05-17 20:52:22.9695320
+Mesaj: Login reusit pentru: aaa [Client] | Generat in data de: 2026-05-17 20:52:23.5507475
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-17 20:53:05.0830702
+Mesaj: Login reusit pentru: mmihnea [Client] | Generat in data de: 2026-05-17 20:54:16.4477193
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-17 20:54:22.3777950
+Mesaj: Login reusit pentru: mmihnea [Client] | Generat in data de: 2026-05-17 20:54:41.9723987
+Mesaj: Login reusit pentru: aaa [Client] | Generat in data de: 2026-05-17 20:55:05.2045127
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-17 20:57:19.8545553
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-17 20:57:32.6282768
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 19:36:54.2124310
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 19:36:54.2332221
+Mesaj: Utilizator inregistrat cu succes: mihnea | Generat in data de: 2026-05-20 19:38:56.5852697
+Mesaj: Login reusit pentru: mihnea [Client] | Generat in data de: 2026-05-20 19:39:22.6801173
+Mesaj: Login reusit pentru: mihnea [Client] | Generat in data de: 2026-05-20 19:41:19.3119615
+Mesaj: Login reusit pentru: mihnea [Client] | Generat in data de: 2026-05-20 19:45:10.4249578
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-20 19:45:35.4302939
+Mesaj: Login reusit pentru: mihnea [Client] | Generat in data de: 2026-05-20 19:46:59.6508572
+Mesaj: Login reusit pentru: mihnea [Client] | Generat in data de: 2026-05-20 19:48:47.5214034
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-20 19:48:54.2897978
+Mesaj: Login reusit pentru: mihnea [Client] | Generat in data de: 2026-05-20 19:52:38.0469298
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-20 19:52:56.1906336
+Mesaj: Login reusit pentru: mihnea [Client] | Generat in data de: 2026-05-20 19:58:43.2486821
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-20 19:59:22.9344869
+Mesaj: Login reusit pentru: mihnea [Client] | Generat in data de: 2026-05-20 20:06:26.9637387
+Mesaj: Login reusit pentru: mihnea [Client] | Generat in data de: 2026-05-20 20:07:11.1660180
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-20 20:07:34.7487680
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 20:32:15.2139923
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 20:32:15.2186978
+Mesaj: Login reusit pentru: mihnea [Client] | Generat in data de: 2026-05-20 20:32:40.3867874
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-20 20:33:18.0422605
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:00:39.5967373
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:00:39.6022367
+Mesaj: Eroare la inregistrare: C:\vcpkg\buildtrees\nanodbc\src\3d2fc404eb-c9c1ec9959.clean\nanodbc\nanodbc.cpp:1687: 0700: [Microsoft][ODBC Driver 17 for SQL Server]COUNT field incorrect or syntax error  | Generat in data de: 2026-05-20 21:01:25.0331706
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:02:17.3022702
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:03:24.1446116
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:03:24.1473242
+Mesaj: Eroare la inregistrare: C:\vcpkg\buildtrees\nanodbc\src\3d2fc404eb-c9c1ec9959.clean\nanodbc\nanodbc.cpp:1687: 0700: [Microsoft][ODBC Driver 17 for SQL Server]COUNT field incorrect or syntax error  | Generat in data de: 2026-05-20 21:04:01.3355044
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:06:59.9249311
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:06:59.9302320
+Mesaj: Utilizator inregistrat cu succes: abc | Generat in data de: 2026-05-20 21:07:34.4093672
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-20 21:07:47.8183403
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:07:56.0973158
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-20 21:08:37.1480910
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:08:47.4751733
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc.com | Generat in data de: 2026-05-20 21:08:47.4756906
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:09:57.8293816
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:09:57.8352913
+Mesaj: Login reusit pentru: abc [Admin] | Generat in data de: 2026-05-20 21:10:08.1993666
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:10:23.4636569
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc.com | Generat in data de: 2026-05-20 21:10:23.4643738
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:11:48.8558884
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:11:48.8650902
+Mesaj: Login reusit pentru: abc [Admin] | Generat in data de: 2026-05-20 21:12:08.1892956
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:12:13.1428967
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc.com | Generat in data de: 2026-05-20 21:12:13.1438251
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:13:29.2630481
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:13:29.3637812
+Mesaj: Login reusit pentru: abc [Admin] | Generat in data de: 2026-05-20 21:13:44.5308526
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:14:46.6075404
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:14:46.6139617
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:15:02.0348761
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:18:21.7288980
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:18:21.7321092
+Mesaj: Login reusit pentru: abc [Admin] | Generat in data de: 2026-05-20 21:18:38.7824559
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:18:41.1974915
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc.com | Generat in data de: 2026-05-20 21:18:41.1980748
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:20:25.9603277
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:20:25.9646873
+Mesaj: Login reusit pentru: abc [Admin] | Generat in data de: 2026-05-20 21:20:51.7972468
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:20:55.6758208
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc.com | Generat in data de: 2026-05-20 21:20:55.6764203
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:31:21.9729409
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:31:21.9853762
+Mesaj: Login reusit pentru: abc [Admin] | Generat in data de: 2026-05-20 21:31:48.3595852
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:31:50.7233574
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc.com | Generat in data de: 2026-05-20 21:31:50.7241619
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:34:18.0403405
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:34:18.0463302
+Mesaj: Login reusit pentru: abc [Admin] | Generat in data de: 2026-05-20 21:34:34.1672891
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:34:36.2614005
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc.com | Generat in data de: 2026-05-20 21:34:36.2626017
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:37:00.4720940
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:37:00.4781313
+Mesaj: Login reusit pentru: abc [Admin] | Generat in data de: 2026-05-20 21:37:15.5332695
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:37:21.3609596
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc.com | Generat in data de: 2026-05-20 21:37:21.3616952
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:38:21.9210269
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:38:21.9258100
+Mesaj: Login reusit pentru: abc [Admin] | Generat in data de: 2026-05-20 21:38:40.5016468
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:39:19.0748308
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:39:19.0807420
+Mesaj: Login reusit pentru: aaa [Client] | Generat in data de: 2026-05-20 21:39:33.1232617
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:39:35.1541020
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:41:53.6395074
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:41:53.6449170
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:42:18.3525054
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:42:18.3597661
+Mesaj: Login reusit pentru: abc [Admin] | Generat in data de: 2026-05-20 21:42:32.6115361
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:42:34.2220706
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc.com | Generat in data de: 2026-05-20 21:42:34.2226907
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:55:29.2833836
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:55:29.2902395
+Mesaj: Login reusit pentru: abc [Admin] | Generat in data de: 2026-05-20 21:56:17.9113265
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 21:57:27.2698304
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 21:57:27.2715768
+Mesaj: Login reusit pentru: abc [Admin] | Generat in data de: 2026-05-20 21:57:49.9563072
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 21:58:11.5810977
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc.com | Generat in data de: 2026-05-20 21:58:11.5817049
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 22:40:39.0479954
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 22:40:39.0521780
+Mesaj: Utilizator inregistrat cu succes: abc | Generat in data de: 2026-05-20 22:43:58.1696190
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 22:44:23.8646363
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 22:45:04.3625455
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 22:45:59.3209067
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 22:45:59.3254563
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-20 22:46:19.9320482
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 22:50:19.5186842
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 22:50:19.5363362
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 22:50:37.2365759
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 22:50:41.3078621
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-20 22:50:41.3084754
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 22:53:15.0198058
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 22:53:15.0254259
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 22:53:54.2299685
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 22:54:58.4608177
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 22:54:58.4664165
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 22:55:17.4693986
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 22:58:03.3177467
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 22:58:03.3235567
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 22:58:22.2099881
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 23:09:37.5633528
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 23:09:37.5759741
+Mesaj: Utilizator inregistrat cu succes: abc | Generat in data de: 2026-05-20 23:10:08.5218415
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 23:10:35.3429904
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 23:10:47.3482215
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-20 23:10:47.3488730
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 23:11:27.0175040
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 23:11:33.9616238
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-20 23:11:33.9622164
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 23:12:34.0901594
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 23:12:34.0955982
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 23:13:00.2324576
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 23:17:38.4871369
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-20 23:17:38.4879720
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 23:18:08.0096712
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 23:18:11.4198651
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-20 23:18:11.4206074
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 23:30:00.8455667
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 23:30:00.8526573
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 23:30:27.2220939
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 23:33:19.1494994
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-20 23:33:19.1501887
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 23:34:41.6646718
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 23:35:11.3653177
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-20 23:35:11.3659204
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 23:42:30.2979318
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 23:42:30.3066342
+Mesaj: Utilizator inregistrat cu succes: abc | Generat in data de: 2026-05-20 23:43:11.2905212
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 23:43:41.6146412
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 23:44:16.2930769
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-20 23:44:16.2937167
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 23:45:24.7448449
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 23:45:24.7507491
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 23:45:52.5972326
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 23:46:08.4406783
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-20 23:46:08.4413475
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-20 23:48:10.2791006
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-20 23:48:10.2850873
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 23:48:59.7610763
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 23:49:11.4816265
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-20 23:49:11.4824710
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-20 23:50:32.6583577
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-20 23:50:41.6888389
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-20 23:50:41.6894035
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 09:09:33.1039953
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 09:09:33.1108917
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-21 09:11:24.6437764
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 09:11:34.7657662
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-21 09:11:34.7665870
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 09:13:06.4145364
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 09:14:01.0521667
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 10:25:11.3785635
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 10:25:11.3847641
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-21 10:35:11.3230586
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 10:37:00.2009591
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 10:37:00.2037539
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-21 10:37:18.4158797
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 10:39:50.3256668
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 10:39:50.3312469
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-21 10:40:15.5522640
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 10:44:35.9850920
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 10:44:35.9903970
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-21 10:45:29.0332771
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 10:46:41.9151791
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 10:46:41.9209765
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-21 10:47:02.5536279
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 10:47:16.3013613
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 10:47:27.6491021
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 10:51:50.2955610
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 10:51:58.0593785
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client1@gmail.com | Generat in data de: 2026-05-21 10:51:58.0600973
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 14:26:14.6748853
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 14:26:14.7448991
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-21 14:26:43.7205075
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 14:27:22.2097231
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 14:27:42.5841391
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 14:28:56.1548700
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 14:29:14.6856099
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client1@gmail.com | Generat in data de: 2026-05-21 14:29:14.6862833
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 14:33:10.8218595
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 14:33:10.8280865
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 14:33:39.6570557
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 14:35:32.6562354
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 14:35:32.6614194
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 14:36:01.5427259
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 14:37:07.0961888
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 14:37:07.1017713
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 14:37:19.8969259
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 14:37:39.3213698
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 14:38:41.7011112
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client1@gmail.com | Generat in data de: 2026-05-21 14:38:41.7019821
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 14:38:56.4563480
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 14:38:56.4612027
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 14:39:18.3881327
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 14:40:29.3416377
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 14:40:29.3470133
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 14:42:32.3561157
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 14:42:32.3613578
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 14:43:01.9052813
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 14:43:13.4378271
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client1@gmail.com | Generat in data de: 2026-05-21 14:43:13.4384895
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 14:44:32.0684886
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 14:44:32.0736880
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 14:44:55.2614476
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 14:44:55.2672039
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 14:45:13.3246157
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 14:47:53.7981261
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 14:47:53.8040741
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 14:48:18.4347324
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 14:48:24.6775440
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 14:50:30.8076614
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 14:50:30.8096945
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 14:54:50.9886648
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 14:54:50.9932810
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 14:55:11.2023736
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 14:57:14.4335195
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 14:57:14.4386866
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 14:57:35.7472223
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 14:57:39.2182603
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client1@gmail.com | Generat in data de: 2026-05-21 14:57:39.2192280
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 15:03:28.3543062
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 15:03:28.3562115
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 15:03:47.0810331
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 15:04:09.7591004
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client1@gmail.com | Generat in data de: 2026-05-21 15:04:09.7598040
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 15:08:21.9251012
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 15:08:21.9309549
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 15:08:58.2004553
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 15:09:10.6712341
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 15:26:31.3604417
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 15:26:31.3679674
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-21 15:27:31.9494206
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 15:28:46.5341289
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-21 15:28:46.5347859
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-21 15:29:16.4194367
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 15:29:31.2805642
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-21 15:29:31.2810655
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 15:32:22.4261927
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 15:32:22.4385779
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-21 15:32:51.3661869
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-21 15:33:02.6324531
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 15:33:08.4242202
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 15:47:38.4415961
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 15:47:38.4460922
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 15:48:12.9141458
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 15:48:32.8514225
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 15:48:55.9257186
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 15:48:55.9316031
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 15:49:21.7533435
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 15:49:58.9544489
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client1@gmail.com | Generat in data de: 2026-05-21 15:49:58.9550425
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 15:59:07.0417114
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 15:59:07.0480625
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 16:00:12.1700037
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 16:09:19.7347470
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 16:09:46.1557741
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 16:09:46.1620555
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 16:14:39.1595344
+Mesaj: Login reusit pentru: Elena Client 2 [Client] | Generat in data de: 2026-05-21 16:16:05.5552590
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 16:17:07.9618138
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 16:29:21.2159141
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 16:29:21.2230231
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 16:31:21.2436455
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 16:35:35.3269618
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 16:35:35.3315607
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 16:35:57.0375398
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 16:37:12.6673417
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 16:37:12.6730760
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 16:37:40.3537248
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 16:40:44.6633716
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 16:40:44.6668562
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 16:41:10.7003401
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 16:45:57.3054487
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 16:45:57.3087575
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 16:46:24.0670140
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 16:46:59.2497740
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 16:52:15.1119361
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 16:52:15.1188417
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 16:52:37.3748216
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 16:53:00.0676490
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client1@gmail.com | Generat in data de: 2026-05-21 16:53:00.0682241
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 16:54:31.3483880
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 16:54:31.3543973
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 16:54:57.7848354
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 16:56:22.1849744
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client1@gmail.com | Generat in data de: 2026-05-21 16:56:22.1858477
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 16:58:17.2473113
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 16:59:20.2936145
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client1@gmail.com | Generat in data de: 2026-05-21 16:59:20.2942729
+Mesaj: Login reusit pentru: Michael Client 3 [Client] | Generat in data de: 2026-05-21 17:00:50.9329741
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 17:01:39.1358878
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 17:05:15.4696401
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 17:05:15.4751936
+Mesaj: Login reusit pentru: Michael Client 3 [Client] | Generat in data de: 2026-05-21 17:06:39.3753957
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 17:07:06.4245643
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client3@test.com | Generat in data de: 2026-05-21 17:07:06.4253561
+Mesaj: Login reusit pentru: Michael Client 3 [Client] | Generat in data de: 2026-05-21 17:09:10.5440746
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 17:09:20.4899964
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client3@test.com | Generat in data de: 2026-05-21 17:09:20.4909836
+Mesaj: Login reusit pentru: Michael Client 3 [Client] | Generat in data de: 2026-05-21 17:10:50.7898666
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 17:11:07.1823186
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client3@test.com | Generat in data de: 2026-05-21 17:11:07.1828185
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 17:20:09.5273142
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 17:20:09.5355919
+Mesaj: Login reusit pentru: Michael Client 3 [Client] | Generat in data de: 2026-05-21 17:20:32.4534066
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 17:20:55.3969576
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client3@test.com | Generat in data de: 2026-05-21 17:20:55.3976190
+Mesaj: Login reusit pentru: Michael Client 3 [Client] | Generat in data de: 2026-05-21 17:21:56.1169615
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 17:23:53.3055553
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 17:25:04.0078291
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 17:25:04.0131035
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 17:25:37.6397444
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 17:25:55.4543016
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 17:25:55.4594810
+Mesaj: Login reusit pentru: Michael Client 3 [Client] | Generat in data de: 2026-05-21 17:26:22.2332951
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 17:27:00.0795165
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client3@test.com | Generat in data de: 2026-05-21 17:27:00.0804593
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 17:29:29.4262156
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 17:29:29.4319808
+Mesaj: Login reusit pentru: Michael Client 3 [Client] | Generat in data de: 2026-05-21 17:31:57.2653563
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 17:34:39.9945452
+Mesaj: Login reusit pentru: Michael Client 3 [Client] | Generat in data de: 2026-05-21 17:35:08.6174115
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 17:35:32.2512044
+Mesaj: [CLEANUP] Sesiune inchisa pentru: client3@test.com | Generat in data de: 2026-05-21 17:35:32.2519547
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-21 18:22:42.0611802
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-21 18:22:42.0843566
+Mesaj: Login reusit pentru: Michael Client 3 [Client] | Generat in data de: 2026-05-21 18:25:23.6992161
+Mesaj: Login reusit pentru: Mihai Admin 3 [Admin] | Generat in data de: 2026-05-21 19:07:52.1030074
+Mesaj: Login reusit pentru: George Client 1 [Client] | Generat in data de: 2026-05-21 19:12:31.9901331
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-21 19:13:54.1748161
+Mesaj: [INFO] Conexiunea cu 127.0.0.1 inchisa. | Generat in data de: 2026-05-21 19:14:33.7770782
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-22 20:16:09.1502988
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-22 20:16:09.1611999
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-22 20:18:58.6933718
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-22 20:19:32.2666361
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-22 20:21:56.6903237
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-22 20:35:36.2756140
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-22 20:35:36.2764020
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-22 20:45:51.3229218
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-22 20:45:54.8281023
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-22 20:57:47.4006391
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-22 20:58:15.6323627
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-22 21:10:45.1831229
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-22 21:11:06.1767576
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-22 21:11:23.8202728
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-22 21:11:23.8207392
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-22 21:11:51.0709234
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-22 21:11:57.7523566
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-22 21:11:57.7528152
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-22 21:12:11.1488092
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-22 21:12:18.8257509
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-22 21:12:18.8262410
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-22 21:13:02.8437686
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-22 21:13:09.7469453
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-22 21:35:25.2536436
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-22 21:35:25.2591447
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-22 21:35:49.4490713
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-22 21:39:54.7812818
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-22 21:39:54.7822171
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-22 21:40:04.5954555
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-22 21:40:53.3775584
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-22 21:42:34.3401643
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-22 21:42:34.3462801
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-22 21:42:54.1941377
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-22 21:43:44.8784153
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-22 21:59:09.7282219
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-22 21:59:09.7329273
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-22 22:00:16.5060770
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-22 22:03:07.3171205
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-22 22:03:07.3181853
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-22 22:03:36.8991917
+Mesaj: [INFO] Conexiunea cu 10.10.25.219 inchisa. | Generat in data de: 2026-05-22 22:04:02.8760282
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-23 09:23:51.3253860
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-23 09:23:51.3427942
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 09:24:13.4071747
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 09:27:02.6353245
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 09:27:54.7748343
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 09:28:23.4824118
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 09:31:16.9010009
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 09:31:40.3229664
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 09:32:15.4538173
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-23 09:32:52.1104020
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 09:47:03.4403061
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-23 09:47:30.5999675
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-23 09:47:30.6620216
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 09:47:38.3991935
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 09:48:14.8701196
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 09:48:49.6535720
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 09:50:01.5698764
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 09:53:59.9686649
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 09:55:24.4303664
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 09:55:24.4324517
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-23 09:56:25.3738165
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 09:57:09.8853360
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:01:18.1096799
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:01:39.5994986
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 10:01:39.6010882
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:01:55.5776998
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:05:52.2476083
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 10:05:52.2510418
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-23 10:06:19.2450842
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-23 10:06:19.2585858
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:06:46.1397689
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:07:27.5768499
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 10:07:27.5788636
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:07:43.2470067
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:07:44.7791281
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 10:07:44.7812174
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:09:42.1265466
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:12:41.0078895
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:19:56.9510389
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 10:19:56.9530896
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:20:13.5510763
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:20:39.6544364
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 10:20:39.6567852
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-23 10:20:53.1734611
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:21:45.4010343
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:28:06.1502403
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-23 10:28:49.6286545
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-23 10:28:49.6425494
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:29:07.7567189
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:29:28.2746336
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:31:05.9326801
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:31:11.6844637
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:32:50.8227302
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-23 10:33:16.2477151
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:34:53.2009311
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-23 10:34:53.2015786
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:37:20.4391893
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:37:38.2800471
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 10:37:38.2806876
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:38:40.0910330
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:40:27.3607155
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:40:41.5238410
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:41:11.4855116
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 10:41:11.4861094
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:43:10.7163259
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:44:33.4850602
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 10:44:33.4857794
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:45:32.0188111
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:47:48.1415923
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:54:02.2367997
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-23 10:54:32.3289311
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 10:54:44.2309784
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 10:56:49.4886288
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:00:28.6129599
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 11:00:28.6137773
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 11:00:42.1016793
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:04:36.5036032
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 11:04:36.5041333
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 11:04:50.8796949
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:05:05.9620192
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 11:05:05.9625383
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 11:05:24.3064729
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:05:52.6700303
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 11:05:52.6706706
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 11:07:24.4445540
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:08:30.9499020
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:14:42.0987093
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:16:24.5124302
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 11:17:39.0246133
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-23 11:18:04.2568526
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:20:36.8682110
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:22:11.7982229
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-23 11:23:50.1151582
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:26:20.2412011
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-23 11:26:20.2419265
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-23 11:31:40.7410667
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:32:14.5104284
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-23 11:32:14.5110290
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-23 11:33:41.6544682
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:34:06.4201142
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-23 11:34:31.6029027
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 11:34:55.6178044
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:35:14.2684573
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-23 11:36:58.2828209
+Mesaj: Login reusit pentru: Simona Admin 2 [Admin] | Generat in data de: 2026-05-23 11:37:20.2188796
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:37:27.0621248
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:43:10.9058578
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 11:47:47.6512606
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 11:48:14.0916188
+Mesaj: Utilizator inregistrat cu succes: numeTest | Generat in data de: 2026-05-23 12:43:32.5992931
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 12:48:23.1196868
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 12:49:05.1375122
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 12:50:00.4389438
+Mesaj: Utilizator inregistrat cu succes: test1 | Generat in data de: 2026-05-23 12:52:12.3021331
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 12:54:55.4508167
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 13:15:16.5824475
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 13:15:16.5833308
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 13:15:34.7329249
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 13:18:55.7410242
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 13:18:55.7417404
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 13:19:12.7109519
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 13:20:56.5712067
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 13:20:56.5719512
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-23 13:21:14.8362091
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 13:22:15.2255885
+Mesaj: [CLEANUP] Sesiune inchisa pentru: admin1@trypo.com | Generat in data de: 2026-05-23 13:22:15.2263522
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 13:22:30.3116563
+Mesaj: Login reusit pentru: Alexandru Admin 1 [Admin] | Generat in data de: 2026-05-23 13:22:49.2538158
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 13:23:01.4315809
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 13:37:39.9771748
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 13:40:19.0783161
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 13:42:01.6277358
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 13:43:31.8570952
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 13:43:31.8579168
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 13:44:57.1063188
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 13:48:39.9222069
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 13:48:39.9228692
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 13:48:58.3236277
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 13:50:50.2625099
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 13:50:50.2632892
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 13:52:02.5598745
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 13:53:59.2603656
+Mesaj: [CLEANUP] Sesiune inchisa pentru: abc@abc | Generat in data de: 2026-05-23 13:53:59.2609536
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 13:54:16.9427009
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 13:54:50.0127884
+Mesaj: Login reusit pentru: Mihai Admin 3 [Admin] | Generat in data de: 2026-05-23 13:55:48.1984408
+Mesaj: [INFO] Conexiunea cu 10.10.26.218 inchisa. | Generat in data de: 2026-05-23 13:55:57.5124615
+Mesaj: Conexiune reusita la BD. | Generat in data de: 2026-05-23 14:03:22.5478152
+Mesaj: Serverul C++ asculta pe portul 12345... | Generat in data de: 2026-05-23 14:03:22.5531541
+Mesaj: Login reusit pentru: abc [Client] | Generat in data de: 2026-05-23 14:03:36.9838207

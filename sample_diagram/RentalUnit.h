@@ -15,12 +15,13 @@ private:
 	int capacity;
 	vector<IRoom*> rooms;
 	Promotions* promotion;
+	string mailAdmin;
 
 public:
-	RentalUnit(string name, string location, string address, int capacity, float promotion) : name(name), location(location),address(address), capacity(capacity) {
+	RentalUnit(string name, string location, string address, int capacity, float promotion,string idAdmin) : name(name), location(location),address(address), capacity(capacity), mailAdmin(idAdmin) {
 		this->promotion = new Promotions(promotion);
 	}
-	RentalUnit(int i,string name, string location, string address, int capacity, float promotion) :id(i), name(name),location(location), address(address), capacity(capacity) {
+	RentalUnit(int i,string name, string location, string address, int capacity, float promotion,string idAdmin) :id(i), name(name),location(location), address(address), capacity(capacity), mailAdmin(idAdmin) {
 		this->promotion = new Promotions(promotion);
 	}
 	~RentalUnit() {
@@ -34,6 +35,14 @@ public:
 	string getName() const { return name;  }
 	string getAddress()const { return address; }
 	string getLocation()const { return location; }
+	string getAdmin()const { return mailAdmin; }
+	Promotions* getPromotion()const { return promotion; }
 	vector<IRoom*> getRooms()const { return this->rooms; }
+	float getDiscount() const {
+		if (promotion != nullptr) {
+			return promotion->getDiscount();
+		}
+		return 0.0f;
+	}
 };
 

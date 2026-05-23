@@ -6,6 +6,7 @@ private:
 public:
 	Promotions(float discount) : discount(discount) {
 	}
+	float getDiscount() { return discount; }
 	~Promotions(){}
 };
 
